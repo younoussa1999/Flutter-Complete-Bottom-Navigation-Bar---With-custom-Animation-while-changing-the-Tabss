@@ -3,9 +3,6 @@
 
 ## [Watch it on YouTube](https://youtu.be/IScmFuxnR7w)
 
-
-## [Complete Source Code (Patreon only)](https://bit.ly/3n5mdwS)
-
 **Packages we are using:**
 
 - goole_fonts: [link](https://pub.dev/packages/google_fonts)
